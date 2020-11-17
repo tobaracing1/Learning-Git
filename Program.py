@@ -11,4 +11,4 @@ def set_change(uniq):
 list1 = [1,2,3,3,3,3,4,5]
 
 #Perintah Output ke layar User
-print (set_change(list1))
+print (list(set_change(list1)))
